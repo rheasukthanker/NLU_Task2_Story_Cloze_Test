@@ -1,5 +1,13 @@
+
+
 # Data Augmentation to Improve BERT on Story Cloze
 For required packages, see requirements.txt.
+
+## Authors: Group 04
+1. Leopold Franz 
+2. Felix Graule 
+3. Rhea Sukthanker
+4. Esref Özdemir
 
 ## Data Exploration Notebook
 A jupyter notebook analyzing the distribution of various features on the right and the wrong endings of the Story Cloze Task
