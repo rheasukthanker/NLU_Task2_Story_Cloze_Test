@@ -1,0 +1,7 @@
+tensorflow==1.13.1
+tensorflow-hub
+textblob
+sklearn
+nltk
+numpy
+pandas
